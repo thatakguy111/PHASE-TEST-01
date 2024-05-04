@@ -5,7 +5,7 @@
  * The goal is to optimize the suspend/resume process by avoiding unnecessary Virtual Terminal (VT) switches 
  * when they are not required by any console drivers.
  * 
- * BASED ON LINUX
+ * Linux Ver. 4.19.313
  */
 
 #include <console.h>
