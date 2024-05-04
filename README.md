@@ -8,3 +8,8 @@ During testing, the software will be evaluated in a controlled virtual environme
 Documentation to set up the constrained virtual environment and execute the software is under process and due to be released. Due to the highly constrained nature of the software, all changes must be carefully reviewed and tested to ensure they do not introduce new constraints or negatively impact performance.
 
 Please note that the software is not intended for use in standard systems and will not function properly outside of the constrained virtual environment. Users are encouraged to carefully evaluate the software's capabilities and limitations before deploying it in a production environment.
+
+Known dependencies include:
+
+* `libcustom.so` version 1.2.3
+* `util-linux` version 2.36.2
